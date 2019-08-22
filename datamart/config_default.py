@@ -1,0 +1,10 @@
+GENDER_CRITERIA = 0.06
+JWT_EXPIRE_MINUTES = 60*24
+week_days = ("пн", "вт", "ср", "чт", "пт", "сб", "вс")
+LOG_FILE = 'datamart.log'
+DEBUG_LOG_FILE = 'datamart_debug.log'
+CONFIG_PATH = '/path/kernel.conf'
+TEMP_PHOTO_DIR = "/tmp/"
+EMPLOYEES_PHOTO_DIR = "/opt/projects/images/employees"
+DEBUG = False
+EXCEL_DIR = '.'

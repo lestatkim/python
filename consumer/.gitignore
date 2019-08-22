@@ -1,0 +1,6 @@
+/best_frames/
+__pycache__
+/hnswlib
+/venv
+config.py
+*********.swp

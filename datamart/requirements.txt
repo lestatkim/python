@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-RESTful
+psycopg2-binary
+uWSGI
+openpyxl
+pandas
