@@ -12,4 +12,4 @@ PyJWT==1.6.4
 pytz==2018.5
 six==1.11.0
 uWSGI==2.0.17.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
